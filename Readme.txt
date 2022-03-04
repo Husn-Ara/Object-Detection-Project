@@ -1,6 +1,6 @@
-#ObjectDetection
+# ObjectDetection
 
-##Object Detection using YOLO and OpenCV. In this repository, I built a streamlit app for Object Detection, for both Video Object Detection and Image Object Detection.
+## Object Detection using YOLO and OpenCV. In this repository, I built a streamlit app for Object Detection, for both Video Object Detection and Image Object Detection.
 
 This YOLO object Detection project can detect 80 objects(i.e classes) in either a video or image. 
 The full list of the classes can be found classes.txt file. 
